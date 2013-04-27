@@ -1,7 +1,7 @@
 {
-    "name": "hirudo/for-drupal",
+    "name": "hirudo/for-moodle",
     "type": "library",
-    "description": "Drupal implementation of Hirudo",
+    "description": "Moodle implementation of Hirudo",
     "keywords": ["Hirudo", "implementation", "moodle"],
     "homepage": "https://github.com/JeyDotC/Hirudo",
     "license": "GNU-GPL",
